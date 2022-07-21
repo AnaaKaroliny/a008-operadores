@@ -12,3 +12,5 @@ divisível = com resto zero
 
 Obs: O true ou false vai depender dos números inseridos e do resultado das operações.
 ```
+
+prompt()

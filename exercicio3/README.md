@@ -18,3 +18,6 @@ console.log(operacao1);
 /*false, porque 50 não é maior que 90, consequentemente temos true && false,
 que devolve false*/
 ```
+
+!20 > 50
+!(20 > 50)
